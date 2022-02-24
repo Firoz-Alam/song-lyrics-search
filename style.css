@@ -1,0 +1,35 @@
+body{
+    background-color: #13141b;
+    background-image: url(images/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    color: #ffffff;
+}
+.form-control{
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    border-radius: 25px;
+    border: none;
+}
+
+.search-box{
+    position: relative;
+}
+.btn-search{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.btn{
+    border-radius: 22px;
+    padding: 9px 20px;
+}
+.single-container{
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    padding: 20px;
+}
+
